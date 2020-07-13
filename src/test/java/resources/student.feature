@@ -34,5 +34,4 @@ Feature: New Student creation
     And Click on Address Info
     When Click on country
     Then Select "United States"
-    When Click on save button
     Then "Latif Gundogan" should be displayed
